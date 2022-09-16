@@ -1,0 +1,1 @@
+Application to block websites selected by the user by directing the website to localhost: 0.0.0
